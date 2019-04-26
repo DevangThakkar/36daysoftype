@@ -37,7 +37,7 @@ for i in range(n_high):
 
 print("<?xml version=\"1.0\" encoding=\"utf-8\"?>")
 print("<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->")
-print("<svg version=\"1.1\" id=\"Layer_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"")
+print("<svg version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"")
 print("\t viewBox=\"0 0 800 800\" style=\"enable-background:new 0 0 800 800;\" xml:space=\"preserve\">")
 print("<style type=\"text/css\">\n\t.st0{fill:none;stroke:#555555;stroke-width:2;stroke-miterlimit:10;}")
 print("\t.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}\n</style>")
